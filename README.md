@@ -1,7 +1,3 @@
-<p align="center">
-  <img width="320" height="180" src="https://avatars.githubusercontent.com/u/67197423?v=4>"
-</p>
-
 # App Vidente Virtual - Flutter
 
 Estrutura inicial de projeto do app Vidente Virtual.
